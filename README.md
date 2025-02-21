@@ -1,8 +1,8 @@
-# Project name
+# 2025-01 Site3 Keyfob Usage
 
 ## Directory structure
 
-* code/ - _contains R Notebook(s) and the resulting HTML file(s)_
+* code/ - _contains scripts, R Notebook(s) and the resulting HTML file(s)_
   * template.Rmd
   * template.html
   * template.nb.html
@@ -11,9 +11,6 @@
   * 02_clean/
   * 03_augmented/
 * docs/ - _contains any documents pertaining to this project_
-  * Presentation_plan_template.docx
-  * Presentation_template.pptx
-  * Research_project_plan.docx
 * results/ - _contains results files_
   * docs/
   * figures/
